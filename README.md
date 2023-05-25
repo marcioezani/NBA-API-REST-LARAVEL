@@ -6,8 +6,8 @@
 
 ## Introdução
 
-<h1 align="left">
-NBA API REST LARAVELDocumentação da API
+<h1 align="center">
+NBA API REST LARAVEL
 </h1>
 
 <p>
@@ -26,9 +26,8 @@ URL da API FREE NBA: <b>https://rapidapi.com/theapiguy/api/free-nba</b>
 
 ## Requerimentos
 
-	PHP = ^8.1
-    Laravel = ^8.0
-    Composer = ^2.3
+	PHP = 8.1
+    Laravel = 8.0
 
 </br>
 
